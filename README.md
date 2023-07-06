@@ -1,1 +1,2 @@
-# IPO-shares-in-Business-Market
+## IPO-shares-in-Business-Market
+The main idea of evaluating and analyzing the datas is to check which factors are responsible for higher profit or higher loss. If with the analyzing we can come to fact that there are some things to look over before investing or buying stocks in IPO. And with the help of visualization it can easily be understood with diagramatic representation of the increase in number of IPO releasing with year and at what year the stocks have been in bad performance.
